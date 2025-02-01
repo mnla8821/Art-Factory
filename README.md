@@ -24,4 +24,4 @@ Trainning in design website.
 - Bootstrap: For styling the UI.
 
 ## Screenshot 
-(src/Assets/swiper.png)
+![Screenshot](images/second.png)
